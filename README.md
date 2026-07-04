@@ -1,17 +1,15 @@
-# 🔤 PRODIGY_GA_03 – Text Generation using Markov Chains
+<div align="center">
 
-<p align="center">
-
-# 🤖 Text Generation using Markov Chains
+# 🔤 Text Generation using Markov Chains
 
 ### 🚀 Prodigy GenAI Internship — Task 03
 
-<img src="https://img.shields.io/badge/Python-3.11-blue">
-<img src="https://img.shields.io/badge/Markovify-Text_Generation-green">
-<img src="https://img.shields.io/badge/NLP-Markov_Chains-orange">
-<img src="https://img.shields.io/badge/Status-Completed-success">
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Markovify](https://img.shields.io/badge/Library-Markovify-green)
+![NLP](https://img.shields.io/badge/NLP-Markov%20Chains-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-</p>
+</div>
 
 ---
 
@@ -19,15 +17,15 @@
 
 This project demonstrates a **Text Generation System** built using **Markov Chains** in Python.
 
-The application learns probabilistic relationships between words from a text corpus and generates meaningful sentences that resemble the style and structure of the training dataset.
+The application learns probabilistic relationships between words from a text corpus and generates meaningful sentences that resemble the writing style and structure of the training data.
 
-This project was developed as **Task-03** of the **Prodigy InfoTech Generative AI Internship**.
+This project was developed as **Task-03** for the **Prodigy InfoTech Generative AI Internship**.
 
 ---
 
 # 🎯 Objective
 
-Develop a text generation application capable of producing meaningful sentences by learning word transition probabilities using the **Markov Chain** algorithm.
+Develop a text generation application capable of producing meaningful sentences by learning **word transition probabilities** using the **Markov Chain algorithm**.
 
 ---
 
@@ -35,7 +33,7 @@ Develop a text generation application capable of producing meaningful sentences 
 
 ✔ Generates random text using Markov Chains
 
-✔ Reads training data from a text dataset
+✔ Reads training data from a text file
 
 ✔ Interactive command-line interface
 
@@ -50,9 +48,9 @@ Develop a text generation application capable of producing meaningful sentences 
 # 📂 Project Structure
 
 ```text
-PRODIGY_GA_03
+PRODIGY_GA_03/
 │
-├── dataset
+├── dataset/
 │   └── sample.txt
 │
 ├── app.py
@@ -63,13 +61,13 @@ PRODIGY_GA_03
 
 ---
 
-# ⚙️ Technologies Used
+# ⚙️ Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
-| Python 🐍 | Programming Language |
-| Markovify 📚 | Text Generation |
-| Markov Chains 🔗 | Language Modeling |
+| 🐍 Python | Programming Language |
+| 📚 Markovify | Text Generation Library |
+| 🔗 Markov Chains | Probabilistic Language Model |
 
 ---
 
@@ -88,34 +86,34 @@ PRODIGY_GA_03
 1. Reads the training dataset.
 2. Builds a Markov Chain language model.
 3. Learns word transition probabilities.
-4. Generates meaningful text based on learned patterns.
+4. Generates meaningful text.
 5. Displays the generated output.
 
 ---
 
 # 📚 Learning Outcomes
 
-✔ Understanding Markov Chains
+✔ Markov Chain Language Models
 
-✔ Text Generation using Probabilistic Models
+✔ Probabilistic Text Generation
 
-✔ Natural Language Processing Basics
+✔ Natural Language Processing Fundamentals
 
 ✔ Python File Handling
 
 ✔ Markovify Library Implementation
 
-✔ Generative AI Fundamentals
+✔ Generative AI Concepts
 
 ---
 
-# 📌 Future Improvements
+# 📌 Future Enhancements
 
 🔹 Support larger datasets
 
 🔹 Generate complete paragraphs
 
-🔹 Web interface using Streamlit
+🔹 Streamlit or Flask web interface
 
 🔹 Export generated text
 
@@ -141,9 +139,11 @@ Information Science & Engineering Student
 
 Jain Institute of Technology, Davangere
 
-**GitHub:** https://github.com/Saikishorep15
+**GitHub:**  
+https://github.com/Saikishorep15
 
-**Repository:** https://github.com/Saikishorep15/PRODIGY_GA_03
+**Repository:**  
+https://github.com/Saikishorep15/PRODIGY_GA_03
 
 ---
 
@@ -157,6 +157,6 @@ Developed as part of the **Prodigy InfoTech Generative AI Internship** to explor
 
 ## ⭐ Task-03 Successfully Completed ⭐
 
-### Built with ❤️ using Python & Markov Chains
+### Built with ❤️ using Python, Markovify & Markov Chains
 
 </div>
